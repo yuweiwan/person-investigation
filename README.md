@@ -37,7 +37,7 @@ git clone https://github.com/yuweiwan/person-investigation ~/.claude/skills/pers
 
 | 依赖 | 用途 | 是否必须 |
 |------|------|---------|
-| [web-access](https://github.com/eze-is/web-access) skill | CDP 浏览器操作，触达需登录态/反爬严格的平台（脉脉、小红书、即刻等） | 否，无此 skill 时自动降级为 WebSearch + WebFetch 模式 |
+| [web-access](https://github.com/eze-is/web-access) skill | CDP 浏览器操作，触达需登录态/反爬严格的平台（脉脉、小红书、即刻等） | 否，无此 skill 时自动降级为 WebSearch + WebFetch 模式，但仍建议配备更好的搜索工具 |
 
 ## 使用
 
